@@ -5,3 +5,6 @@ Create a 3d model of the organizer in the Rhino program. To do this, use various
 ![image](https://github.com/user-attachments/assets/b1f3085c-d40d-48f3-ace1-7593ece86f93)
 ![image](https://github.com/user-attachments/assets/7f336144-b9b5-4ec2-83b6-3297612c225e)
 Save the model in STL format.
+# Creating a separator
+Create a separator outline and save it in DXF format
+![image](https://github.com/user-attachments/assets/e32da25f-b3e4-4803-9650-52cb46c5708e)
