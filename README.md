@@ -12,3 +12,5 @@ Create a separator outline and save it in DXF format
 ![image](https://github.com/user-attachments/assets/37266fe3-a36b-4381-9fbf-882a1796d5eb)
 # Printing the organizer
 ![image](https://github.com/user-attachments/assets/9c99c2c0-7f08-4db7-8d85-e553655173bb)
+# Laser cutting of the separator
+![image](https://github.com/user-attachments/assets/c24b47e5-a5f4-421f-807e-f838c28d85d3)
