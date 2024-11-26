@@ -10,3 +10,6 @@ Create a separator outline and save it in DXF format
 ![image](https://github.com/user-attachments/assets/e32da25f-b3e4-4803-9650-52cb46c5708e)
 # Slicing the organizer model
 ![image](https://github.com/user-attachments/assets/37266fe3-a36b-4381-9fbf-882a1796d5eb)
+# Printing the organizer
+![image](https://github.com/user-attachments/assets/e76fe000-f42a-4db2-9e7f-c36665b467b0)
+![image](https://github.com/user-attachments/assets/9c99c2c0-7f08-4db7-8d85-e553655173bb)
